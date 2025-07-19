@@ -1,0 +1,9 @@
+# ninja log v6
+3	89	7745964358060076	CMakeFiles/corebfrb.dir/motion_algo/core/corebfrb.c.obj	b975f4e64d8fbd3b
+16	89	7745965806315934	CMakeFiles/corebfrb.dir/motion_algo/core/corebfrb.c.obj	b975f4e64d8fbd3b
+20	99	7745965806355934	CMakeFiles/corebfrb_test.dir/motion_algo/test/main.c.obj	5ef4d35053afb8f4
+90	872	7745965807056119	libcorebfrb.a	d9d338a6c90ad9ca
+4	78	7745967814621562	CMakeFiles/corebfrb.dir/motion_algo/core/corebfrb.c.obj	b975f4e64d8fbd3b
+8	89	7745967814661262	CMakeFiles/corebfrb_test.dir/motion_algo/test/main.c.obj	5ef4d35053afb8f4
+79	177	7745967815357459	libcorebfrb.a	d9d338a6c90ad9ca
+177	277	7745967816345507	corebfrb_test.exe	593b830fb6ba634f
